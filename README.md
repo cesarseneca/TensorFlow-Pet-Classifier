@@ -5,7 +5,7 @@ Welcome to **TensorFlow Pet Classifier**! 🎯 This project uses **Convolutional
 ## 📸 Example Prediction  
 The model analyzes images and predicts whether the image belongs to a **dog 🐶** or a **cat 🐱** with an estimated probability.  
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ---
 
